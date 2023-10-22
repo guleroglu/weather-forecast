@@ -52,7 +52,7 @@ Technologies I used in this project
 ```
 
   
-## Screenshot
+## Screenshot 📸
 
 ![Screenshot](https://i.ibb.co/D51LK7K/Screenshot-2023-10-22-174759.png)
 
