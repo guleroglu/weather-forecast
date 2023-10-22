@@ -1,0 +1,38 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  background-color: #6b7280;
+  border-radius: 20px;
+  width: 155px;
+  height: 155px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+
+.card-title {
+  text-align: center;
+  margin-top: 10px;
+  color: #ffa500;
+}
+
+.card-img {
+  display: flex;
+  justify-content: center;
+}
+
+.card-img img {
+  width: 70px;
+  height: 70px;
+}
+
+.maxminheat-wrapper {
+  display: flex;
+  justify-content: center;
+  column-gap: 10px;
+  color: #ffa500;
+}
+
+.selected {
+  border: 3px solid #FFA500;
+}

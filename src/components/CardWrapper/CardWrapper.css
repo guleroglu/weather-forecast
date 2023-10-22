@@ -1,0 +1,18 @@
+.city-name {
+  text-align: center;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 50px;
+  color: #ffa500;
+  text-transform: uppercase;
+  margin-top: 50px;
+}
+
+.card-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 30px;
+  row-gap: 30px;
+  justify-content: center;
+  margin-top: 50px;
+}
