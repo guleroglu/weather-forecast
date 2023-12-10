@@ -31,7 +31,7 @@ Technologies I used in this project
 1. Clone this project
 
 ```bash
-  git clone https://github.com/erencansev/weather-forecast.git
+  git clone https://github.com/erencansev/weather-forecast.git](https://github.com/guleroglu/weather-forecast.git
 ```
 
 2. To navigate to the project directory, use the following command:
